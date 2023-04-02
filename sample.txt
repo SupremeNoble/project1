@@ -1,0 +1,17 @@
+//create new git repository
+git init
+git remote add origin
+git branch -M main
+
+
+// update git with changes
+git add .
+git commit -m "add text here"
+git push origin main
+
+git pull origin main
+git clone <url>
+
+git remote -v
+
+mkdir quiz1
